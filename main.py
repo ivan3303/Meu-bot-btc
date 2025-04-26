@@ -8,13 +8,13 @@ import os
 from binance.client import Client
 
 # === Configurações ===
-api_key = '7824548048:AAFhVkyzz-kNqti-n9igud5p8B6QZkYcKz4'
-api_secret = '2110910820'
+api_key = 'P4EoHW0Zr3O0UsDjcx8SToenDPjpeZAgizy2wiBovIjmAhCg1LymcuQq7RcX7Byk'
+api_secret = 'CXxgSIQ6nUHBdYOnDsDvo2g8C7ErVqjZxWNAES9bx0dCj9CvToIfFNUmtzvQZUj1'
 client = Client(api_key, api_secret)
 
 # Telegram Bot
-telegram_token = 'SEU_TOKEN_DO_BOT'
-chat_id = 'SEU_CHAT_ID'
+telegram_token = '7824548048:AAFhVkyzz-kNqti-n9igud5p8B6QZkYcKz4'
+chat_id = '2110910820'
 
 # Parâmetros
 symbols = ['BTCUSDT', 'ETHUSDT', 'SOLUSDT']
